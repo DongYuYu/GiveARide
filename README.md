@@ -1,59 +1,7 @@
-Google Maps Android API Demos
-===================================
-###google
-These are demos for the [Google Maps Android API v2](https://developers.google.com/maps/documentation/android-api/)
-in the Java programming language.
-They demonstrate most of the features available in the API.
+<h1> Give A Ride </h1>
 
-This app was written for a minSdk of 15 and the v4 support library, but it can be easily adapted to
-use native functionality instead.
-(For example replacing ``SupportMapFragment`` with ``MapFragment``.)
+<img src="app/Screenshot_2018-12-13-13-29-51.png" width="230">
+<img src="app/Screenshot_2018-12-13-14-12-52.png" width="230">
+<img src="app/Screenshot_2018-12-13-14-04-08.png" width="230">
 
-Pre-requisites
---------------
-
-- Android SDK v27
-- Latest Android Build Tools
-- Android Support Repository
-- Google Repository
-- Google Play services
-Getting Started
----------------
-<img src="app/Screenshot_2018-12-13-13-29-51.png" width="42">
-<img src="app/Screenshot_2018-12-13-13-29-51.png" width="42">
-
-This sample use the Gradle build system.
-
-First download the samples by cloning this repository or downloading an archived
-snapshot. (See the options at the top of the page.)
-
-In Android Studio, use "Open an existing Android Studio project".
-Next select the ApiDemos/java/ directory that you downloaded from this repository.
-If prompted for a gradle configuration accept the default settings. 
-
-Alternatively use the "gradlew build" command to build the project directly.
-
-Add your API key to the file `debug/values/google_maps_api.xml`.
-It's pulled from there into your app's `AndroidManifest.xml` file.
-See the [quick guide to getting an API key](https://developers.google.com/maps/documentation/android-api/signup).
-
-Support
--------
-
-- Stack Overflow: https://stackoverflow.com/questions/tagged/android+google-maps
-
-If you have discovered an issue with the Google Maps Android API v2, please see
-the resources here: https://developers.google.com/maps/documentation/android-api/support
-
-If you've found an error in these samples, please file an issue:
-https://github.com/googlemaps/android-samples/issues
-
-Patches are encouraged, and may be submitted according to the instructions in
-CONTRIBUTING.md.
-
-![Analytics](https://ga-beacon.appspot.com/UA-12846745-20/android-samples-apidemos/readme?pixel)
-
-License
--------
-
-Please refer to the [LICENSE](https://github.com/googlemaps/android-samples/blob/master/LICENSE) at the root of this repo.
+<p> App is made for users to make a riding request. A driver can find the nearest request and decide if he/she wants to give a ride. The route is painted using package of jd-alexender. 10 points will be earned by driver and given from the rider. </p>
