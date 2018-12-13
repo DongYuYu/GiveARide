@@ -1,6 +1,6 @@
 Google Maps Android API Demos
 ===================================
-#google
+###google
 These are demos for the [Google Maps Android API v2](https://developers.google.com/maps/documentation/android-api/)
 in the Java programming language.
 They demonstrate most of the features available in the API.
