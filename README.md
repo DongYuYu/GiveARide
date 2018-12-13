@@ -19,8 +19,8 @@ Pre-requisites
 - Google Play services
 Getting Started
 ---------------
-<img src="App/Screenshot_2018-12-13-13-29-51.png" width="42">
-<img src="App/Screenshot_2018-12-13-13-29-51.png" width="42">
+<img src="app/Screenshot_2018-12-13-13-29-51.png" width="42">
+<img src="app/Screenshot_2018-12-13-13-29-51.png" width="42">
 
 This sample use the Gradle build system.
 
